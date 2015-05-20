@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qsort", "qsort\qsort.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "string", "string\string.vcxproj", "{F2900683-4B15-49A9-AC4F-D862DB523E5D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "file", "file\file.vcxproj", "{4B1FDC54-375B-44C7-9EBC-253C1955D127}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -73,6 +75,10 @@ Global
 		{F2900683-4B15-49A9-AC4F-D862DB523E5D}.Debug|Win32.Build.0 = Debug|Win32
 		{F2900683-4B15-49A9-AC4F-D862DB523E5D}.Release|Win32.ActiveCfg = Release|Win32
 		{F2900683-4B15-49A9-AC4F-D862DB523E5D}.Release|Win32.Build.0 = Release|Win32
+		{4B1FDC54-375B-44C7-9EBC-253C1955D127}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4B1FDC54-375B-44C7-9EBC-253C1955D127}.Debug|Win32.Build.0 = Debug|Win32
+		{4B1FDC54-375B-44C7-9EBC-253C1955D127}.Release|Win32.ActiveCfg = Release|Win32
+		{4B1FDC54-375B-44C7-9EBC-253C1955D127}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
