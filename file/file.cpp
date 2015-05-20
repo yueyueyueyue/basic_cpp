@@ -10,7 +10,7 @@ int main()
 	while(!file.eof())
 	{
 		file>>s;
-		//if(!file.eof())cout<<s<<'|';//这是不对的，不能这样，要如下那样。如果这样最后一个词汇会掉。
+		//if(!file.eof())cout<<s<<'|';//这是不对的，不能这样，要如下那样。如果这样最后一个词汇会掉掉。
 		cout<<s<<'|';
 	}
 	cout<<endl;
